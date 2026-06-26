@@ -1,7 +1,11 @@
 __pycache__/
 *.py[cod]
 image-job.json
+image-job-*.json
 image-map.json
 job-result.json
+job-result-*.json
 run-state.json
+schedule-*.mjs
+run-image-jobs.js
 data
