@@ -1,0 +1,44 @@
+[38;2;112;172;222m2026-06-28 16:41:01[0m | [38;2;61;208;141mSUCCESS[0m: [97m🥳 cookie 有效[0m
+[38;2;112;172;222m2026-06-28 16:41:02[0m | [38;2;156;191;221mINFO[0m: [97m🧍 小人先检查 cookie、图片和发布时间[0m
+[38;2;112;172;222m2026-06-28 16:41:10[0m | [38;2;61;208;141mSUCCESS[0m: [97m🥳 cookie 有效[0m
+[38;2;112;172;222m2026-06-28 16:41:10[0m | [38;2;156;191;221mINFO[0m: [97m🥳 图文上传前检查通过[0m
+[38;2;112;172;222m2026-06-28 16:41:12[0m | [38;2;156;191;221mINFO[0m: [97m🧭 小人正在赶往快手图文发布页[0m
+[38;2;112;172;222m2026-06-28 16:41:12[0m | [38;2;156;191;221mINFO[0m: [97m🏃 小人开始搬运图文，共 4 张图片[0m
+[38;2;112;172;222m2026-06-28 16:41:12[0m | [38;2;156;191;221mINFO[0m: [97m🔀 小人正在切换到图文发布[0m
+[38;2;112;172;222m2026-06-28 16:41:14[0m | [38;2;156;191;221mINFO[0m: [97m📤 小人正在上传图片[0m
+未检测到 Joyride 遮罩，继续执行
+[38;2;112;172;222m2026-06-28 16:41:14[0m | [38;2;156;191;221mINFO[0m: [97m✍️ 小人开始填写图文内容和话题[0m
+[38;2;112;172;222m2026-06-28 16:41:21[0m | [38;2;156;191;221mINFO[0m: [97m🏷️ 小人正在添加第 1 个话题: #豆包[0m
+[38;2;112;172;222m2026-06-28 16:41:23[0m | [38;2;156;191;221mINFO[0m: [97m🏷️ 小人正在添加第 2 个话题: #千问[0m
+[38;2;112;172;222m2026-06-28 16:41:25[0m | [38;2;61;208;141mSUCCESS[0m: [97m🥳 图文素材已经传完啦[0m
+[38;2;112;172;222m2026-06-28 16:41:32[0m | [38;2;156;191;221mINFO[0m: [97m🏃 小人正在冲刺发布图文: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/article/manage/video?status=2&from=publish**" until 'load'
+============================================================[0m
+[38;2;112;172;222m2026-06-28 16:42:03[0m | [38;2;156;191;221mINFO[0m: [97m🏃 小人正在冲刺发布图文: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_text("发布", exact=True)
+    - locator resolved to <div>发布</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div tabindex="-1" role="dialog" class="ant-modal-wrap ant-modal-confirm-centered ant-modal-centered">…</div> from <div id="microSupport" class="ant-scrolling-effect">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div tabindex="-1" role="dialog" class="ant-modal-wrap ant-modal-confirm-centered ant-modal-centered">…</div> from <div id="microSupport" class="ant-scrolling-effect">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div tabindex="-1" role="dialog" class="ant-modal-wrap ant-modal-confirm-centered ant-modal-centered">…</div> from <div id="microSupport" class="ant-scrolling-effect">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+[0m
