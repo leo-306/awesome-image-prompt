@@ -2,7 +2,7 @@
 
 <div style="text-align:center; margin: 0 0 24px 0;">
 
-![](image-05.png)
+![](image-06.png)
 
 </div>
 
