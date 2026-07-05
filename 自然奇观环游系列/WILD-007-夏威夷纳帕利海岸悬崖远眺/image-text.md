@@ -15,7 +15,7 @@ topics:
 
 #GPTImage2 #千问 #生图提示词 #Prompt #自然奇观环游 #纳帕利海岸
 
-![顶部引导图](image-05.png)
 ![配图1](image-01.png)
 ![配图2](image-02.png)
 ![配图3](image-03.png)
+![顶部引导图](image-05.png)
