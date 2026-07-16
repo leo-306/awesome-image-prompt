@@ -1,0 +1,32 @@
+{
+  "stage": 7,
+  "project_root": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "女友感自拍系列",
+  "vol": "SELFIE-023",
+  "title": "雾绒叙事·暖灰窗边写真",
+  "template": "N",
+  "template_name": "情绪氛围（按用户要求扩展为六个暖灰居家瞬间，正文仅展示一份完整原版提示词）",
+  "style": 1,
+  "style_name": "极简流",
+  "article_dir": "女友感自拍系列/SELFIE-023-雾绒叙事·暖灰窗边写真",
+  "article_md": "女友感自拍系列/SELFIE-023-雾绒叙事·暖灰窗边写真/SELFIE-023-雾绒叙事·暖灰窗边写真.md",
+  "recent_templates": ["K", "O", "B"],
+  "recent_styles": [3, 4, 5],
+  "article_written": true,
+  "title_used": "朋友圈都以为是真实抓拍，这组暖灰窗边女友感写真太自然了",
+  "title_style": "社交货币型",
+  "images_ready": true,
+  "image_jobs": [
+    "selfie023_body01",
+    "selfie023_body02",
+    "selfie023_body03",
+    "selfie023_body04",
+    "selfie023_body05",
+    "selfie023_body06",
+    "selfie023_cover07",
+    "selfie023_banner08"
+  ],
+  "image_text_ready": true,
+  "outline_updated": true,
+  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmENiDARhlKXsWNMAKlAUokYuHR_wo_dIQGpX20javwr8D"
+}
