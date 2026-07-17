@@ -1,0 +1,36 @@
+{
+  "stage": 7,
+  "project_root": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "典藏海报系列",
+  "vol": "POSTER-005",
+  "title": "雾境星痕六色冷感数字人海报",
+  "template": "E",
+  "template_name": "Prompt优化对比",
+  "style": 4,
+  "style_name": "卡片问答流",
+  "article_dir": "典藏海报系列/POSTER-005-雾境星痕六色冷感数字人海报",
+  "article_md": "典藏海报系列/POSTER-005-雾境星痕六色冷感数字人海报/POSTER-005-雾境星痕六色冷感数字人海报.md",
+  "recent_templates": ["F", "O", "L"],
+  "recent_styles": [2, 1, 3],
+  "article_written": true,
+  "title_used": "这组雾蓝银发角色写法存一下，六种冷色海报一次出齐",
+  "title_style": "复制即用型",
+  "images_ready": true,
+  "image_jobs": [
+    "poster005_body01",
+    "poster005_body02",
+    "poster005_body03",
+    "poster005_body04",
+    "poster005_body05",
+    "poster005_body06",
+    "poster005_cover07",
+    "poster005_banner08"
+  ],
+  "manual_recovery": {
+    "job_id": "poster005_body01",
+    "recovered": true
+  },
+  "image_text_ready": true,
+  "outline_updated": true,
+  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEGvfQ5JRW2E6hLtkTUT9DBRVkNpf4PdmoV7wYaIQkhsK"
+}
