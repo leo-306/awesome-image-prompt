@@ -1,0 +1,32 @@
+{
+  "stage": 7,
+  "project_root": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "女友感自拍系列",
+  "vol": "SELFIE-026",
+  "title": "雨迹银盐·六幕胶片日常",
+  "template": "P",
+  "template_name": "常见问题解答（按用户要求扩展为六幕复古生活案例，正文仅展示一份完整原版提示词）",
+  "style": 5,
+  "style_name": "对比卡片流",
+  "article_dir": "女友感自拍系列/SELFIE-026-雨迹银盐·六幕胶片日常",
+  "article_md": "女友感自拍系列/SELFIE-026-雨迹银盐·六幕胶片日常/SELFIE-026-雨迹银盐·六幕胶片日常.md",
+  "recent_templates": ["D", "M", "N"],
+  "recent_styles": [4, 2, 1],
+  "article_written": true,
+  "title_used": "试了六个复古生活场景，最像真实女友抓拍的是这一幕",
+  "title_style": "实验记录型",
+  "images_ready": true,
+  "image_jobs": [
+    "selfie026_body01",
+    "selfie026_body02",
+    "selfie026_body03",
+    "selfie026_body04",
+    "selfie026_body05",
+    "selfie026_body06",
+    "selfie026_cover07",
+    "selfie026_banner08"
+  ],
+  "image_text_ready": true,
+  "outline_updated": true,
+  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEPlFfkBBI798G3YYqWOiPL_k2FgXYLu6iorfiVYjdzyy"
+}
