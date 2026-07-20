@@ -10,4 +10,3 @@ schedule-*.mjs
 run-image-jobs.js
 data
 .img*.sh
-prompts.json

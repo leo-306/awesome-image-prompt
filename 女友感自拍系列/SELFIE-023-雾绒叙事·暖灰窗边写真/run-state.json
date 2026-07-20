@@ -28,5 +28,10 @@
   ],
   "image_text_ready": true,
   "outline_updated": true,
-  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmENiDARhlKXsWNMAKlAUokYuHR_wo_dIQGpX20javwr8D"
+  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmENiDARhlKXsWNMAKlAUokYuHR_wo_dIQGpX20javwr8D",
+  "social_images": ["image-01.png", "image-02.png", "image-03.png", "image-04.png", "image-05.png", "image-06.png"],
+  "douyin_submitted": true,
+  "kuaishou_submitted": true,
+  "toutiao_submitted": true,
+  "stage": 11
 }
