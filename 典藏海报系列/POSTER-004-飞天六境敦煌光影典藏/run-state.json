@@ -38,5 +38,14 @@
   "cover_text_verified": true,
   "image_text_ready": true,
   "outline_updated": true,
-  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEMvnbl3ENhjj_hOdG7LRHs66fbOQbJboiiVEbRblAvoA"
+  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEMvnbl3ENhjj_hOdG7LRHs66fbOQbJboiiVEbRblAvoA",
+  "social_images": ["image-01.png", "image-02.png", "image-03.png", "image-04.png", "image-05.png", "image-06.png"],
+  "stage": 12,
+  "douyin_submitted": false,
+  "douyin_note": "连续3次在填写作品标题输入框超时（120秒），怀疑页面弹窗遮挡或结构变化，未成功提交，需人工处理",
+  "kuaishou_submitted": true,
+  "channels_submitted": false,
+  "channels_note": "tencent cookie 已失效（Locator.count 报错 + 显式提示 cookie missing/expired），需重新执行 sau tencent login --account Leo",
+  "toutiao_submitted": true,
+  "toutiao_note": "已提交，但脚本未检测到明确成功信号（.preview-article-wrap 未出现），建议登录头条后台核实文章是否发布成功"
 }
