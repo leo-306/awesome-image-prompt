@@ -43,8 +43,7 @@
   "stage": 12,
   "douyin_submitted": true,
   "kuaishou_submitted": true,
-  "channels_submitted": false,
-  "channels_note": "tencent cookie 已失效（Locator.count 报错 + 显式提示 cookie missing/expired），需重新执行 sau tencent login --account Leo",
+  "channels_submitted": true,
   "toutiao_submitted": true,
   "toutiao_note": "已提交，但脚本未检测到明确成功信号（.preview-article-wrap 未出现），建议登录头条后台核实文章是否发布成功"
 }
