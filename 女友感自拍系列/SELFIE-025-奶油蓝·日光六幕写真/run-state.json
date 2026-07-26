@@ -33,5 +33,19 @@
   "outline_updated": true,
   "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEMEuszJEHSl7k8DwY42SfXk2JO8ZPBvFQHXV2QXcn6KV",
   "wechat_publish_method": "api",
-  "wechat_theme": "simple"
+  "wechat_theme": "simple",
+  "social_images": [
+    "image-01.png",
+    "image-02.png",
+    "image-03.png",
+    "image-04.png",
+    "image-05.png",
+    "image-06.png"
+  ],
+  "douyin_submitted": true,
+  "kuaishou_submitted": true,
+  "channels_submitted": true,
+  "channels_login_refreshed": true,
+  "toutiao_submitted": true,
+  "stage": 12
 }
