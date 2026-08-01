@@ -10,3 +10,6 @@ schedule-*.mjs
 run-image-jobs.js
 data
 .img*.sh
+.DS_Store
+social-*.md
+.content-client/
