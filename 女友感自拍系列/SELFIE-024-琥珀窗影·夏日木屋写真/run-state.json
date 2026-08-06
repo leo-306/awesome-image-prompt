@@ -10,8 +10,16 @@
   "style_name": "叙事流",
   "article_dir": "女友感自拍系列/SELFIE-024-琥珀窗影·夏日木屋写真",
   "article_md": "女友感自拍系列/SELFIE-024-琥珀窗影·夏日木屋写真/SELFIE-024-琥珀窗影·夏日木屋写真.md",
-  "recent_templates": ["N", "B", "O"],
-  "recent_styles": [1, 5, 4],
+  "recent_templates": [
+    "N",
+    "B",
+    "O"
+  ],
+  "recent_styles": [
+    1,
+    5,
+    4
+  ],
   "user_requirement_note": "基于用户提供的六条夏日木屋写真提示词生成约1200字微信文章；六张正文图全部生成并入文；正文只完整展示第一份原版提示词，其余案例讲设计思路；顶部不写引导文案；封面采用双图片卡片堆叠，真实好看且吸睛。",
   "template_adaptation": "保留随机脚本选中的构图课堂结构，以藤席低机位、纵向凳线、散点叙事、对角线色彩、前景遮挡、框景回望六种构图解释同一木屋系列。",
   "prompts_ready": true,
@@ -35,5 +43,37 @@
   ],
   "image_text_ready": true,
   "outline_updated": true,
-  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEI1Eho_JWtEALIxdImB_5l2cH7WYTwsC_y7gB1aC6sfj"
+  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEI1Eho_JWtEALIxdImB_5l2cH7WYTwsC_y7gB1aC6sfj",
+  "client_tasks": {
+    "douyin": {
+      "state": "completed",
+      "detail": "已通过真实页面确认发布（点击「发布」）；已关闭 1 个发布标签页",
+      "updatedAt": "2026-08-04T01:37:00.344Z"
+    },
+    "channels": {
+      "state": "completed",
+      "detail": "已通过真实页面确认发布（点击「发表」）；已关闭 1 个发布标签页",
+      "updatedAt": "2026-08-04T01:37:39.119Z"
+    },
+    "toutiao": {
+      "state": "completed",
+      "detail": "已通过真实页面确认发布（点击「预览并发布」和「确认发布」）；已关闭 1 个发布标签页",
+      "updatedAt": "2026-08-04T01:38:13.674Z"
+    },
+    "kuaishou": {
+      "state": "completed",
+      "detail": "已通过真实页面确认发布（点击「发布」和「确定」）；已关闭 1 个发布标签页",
+      "updatedAt": "2026-08-04T01:37:52.737Z"
+    },
+    "xiaohongshu": {
+      "state": "completed",
+      "detail": "已通过真实页面确认发布（点击「发布」）；已关闭 1 个发布标签页",
+      "updatedAt": "2026-08-04T01:38:39.469Z"
+    }
+  },
+  "douyin_submitted": true,
+  "channels_submitted": true,
+  "kuaishou_submitted": true,
+  "toutiao_submitted": true,
+  "xiaohongshu_submitted": true
 }
