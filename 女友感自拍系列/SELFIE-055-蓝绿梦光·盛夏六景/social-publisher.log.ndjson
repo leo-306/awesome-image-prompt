@@ -1,0 +1,62 @@
+{"at":"2026-08-15T22:43:24.953Z","task":"douyin","operation":"execute","event":"started","detail":"开始填写并最终发布"}
+{"at":"2026-08-15T22:43:24.954Z","task":"douyin","operation":"prepare","event":"started","detail":"开始填写发布页"}
+{"at":"2026-08-15T22:43:37.067Z","task":"douyin","operation":"prepare","event":"state-changed","detail":"草稿已写入可见浏览器，待在平台页面核对并发布","data":{"pageUrl":"https://creator.douyin.com/creator-micro/content/post/image?enter_from=publish_page&media_type=image&type=new","steps":[{"label":"图片","state":"done","detail":"已确认 7 张图片上传完成"},{"label":"标题","state":"done","detail":"已写入"},{"label":"正文","state":"done","detail":"已通过真实键盘替换"},{"label":"话题","state":"done","detail":"已通过物理点击添加 5 个话题：#豆包 #千问 #GPTImage2 #女友感自拍 #蓝绿梦光"},{"label":"背景音乐","state":"done","detail":"已自动使用首条推荐音乐「One More Step To You」"},{"label":"AI 声明","state":"done","detail":"已选择「内容由AI生成」"},{"label":"发布页校验","state":"done","detail":"标题、正文和 7 张图片仍完整"}]}}
+{"at":"2026-08-15T22:43:37.071Z","task":"douyin","operation":"publish","event":"started","detail":"开始点击最终发布按钮"}
+{"at":"2026-08-15T22:43:54.828Z","task":"douyin","operation":"publish","event":"state-changed","detail":"已通过真实页面确认发布（点击「发布」）；已关闭 1 个发布标签页","data":{"button":"发布","closedTabs":1}}
+{"at":"2026-08-15T22:43:54.829Z","task":"douyin","operation":"execute","event":"succeeded","detail":"已通过真实页面确认发布（点击「发布」）；已关闭 1 个发布标签页"}
+{"at":"2026-08-15T22:43:54.834Z","task":"kuaishou","operation":"execute","event":"started","detail":"开始填写并最终发布"}
+{"at":"2026-08-15T22:43:54.836Z","task":"kuaishou","operation":"prepare","event":"started","detail":"开始填写发布页"}
+{"at":"2026-08-15T22:44:09.716Z","task":"kuaishou","operation":"prepare","event":"state-changed","detail":"草稿已写入可见浏览器，待在平台页面核对并发布","data":{"pageUrl":"https://cp.kuaishou.com/article/publish/video","steps":[{"label":"图片","state":"done","detail":"已确认 7 张图片上传完成"},{"label":"标题","state":"skipped","detail":"快手图文当前页面没有独立标题字段，平台以图文描述作为发布文案"},{"label":"正文","state":"done","detail":"已通过真实键盘替换"},{"label":"话题","state":"done","detail":"已按当前文本添加 4 个话题：#生图提示词 #夏日人像 #女友感自拍 #蓝绿梦光"},{"label":"背景音乐","state":"done","detail":"已自动添加首条推荐音乐「梦未完待续」"},{"label":"AI 声明","state":"done","detail":"已选择「内容为AI生成」"},{"label":"发布页校验","state":"done","detail":"标题、正文和 7 张图片仍完整"}]}}
+{"at":"2026-08-15T22:44:09.718Z","task":"kuaishou","operation":"publish","event":"started","detail":"开始点击最终发布按钮"}
+{"at":"2026-08-15T22:44:11.523Z","task":"kuaishou","operation":"publish","event":"state-changed","detail":"已通过真实页面确认发布（点击「发布」和「确定」）；已关闭 1 个发布标签页","data":{"button":"发布","confirmation":"确定","closedTabs":1}}
+{"at":"2026-08-15T22:44:11.523Z","task":"kuaishou","operation":"execute","event":"succeeded","detail":"已通过真实页面确认发布（点击「发布」和「确定」）；已关闭 1 个发布标签页"}
+{"at":"2026-08-15T22:44:11.527Z","task":"channels","operation":"execute","event":"started","detail":"开始填写并最终发布"}
+{"at":"2026-08-15T22:44:11.528Z","task":"channels","operation":"remote-verify","event":"started","detail":"发布前按标题核验平台管理页，防止重复发布"}
+{"at":"2026-08-15T22:44:26.313Z","task":"channels","operation":"remote-verify","event":"succeeded","detail":"平台管理页未匹配标题，可继续发布","data":{"pageUrl":"https://channels.weixin.qq.com/platform/post/finderNewLifePostList"}}
+{"at":"2026-08-15T22:44:26.313Z","task":"channels","operation":"prepare","event":"started","detail":"开始填写发布页"}
+{"at":"2026-08-15T22:46:10.779Z","task":"channels","operation":"prepare","event":"failed","detail":"视频号创建页已打开，但表单控件改版或尚未完成加载；失败现场：/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/channels-prepare-latest.png；/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/channels-prepare-latest.json"}
+{"at":"2026-08-15T22:46:10.780Z","task":"channels","operation":"execute","event":"started","detail":"开始填写并最终发布"}
+{"at":"2026-08-15T22:46:10.781Z","task":"channels","operation":"remote-verify","event":"started","detail":"发布前按标题核验平台管理页，防止重复发布"}
+{"at":"2026-08-15T22:46:27.685Z","task":"channels","operation":"remote-verify","event":"succeeded","detail":"平台管理页未匹配标题，可继续发布","data":{"pageUrl":"https://channels.weixin.qq.com/platform/post/finderNewLifePostList"}}
+{"at":"2026-08-15T22:46:27.686Z","task":"channels","operation":"prepare","event":"started","detail":"开始填写发布页"}
+{"at":"2026-08-15T22:48:12.602Z","task":"channels","operation":"prepare","event":"failed","detail":"视频号创建页已打开，但表单控件改版或尚未完成加载；失败现场：/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/channels-prepare-latest.png；/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/channels-prepare-latest.json"}
+{"at":"2026-08-15T22:48:12.602Z","task":"toutiao","operation":"execute","event":"started","detail":"开始填写并最终发布"}
+{"at":"2026-08-15T22:48:12.604Z","task":"toutiao","operation":"prepare","event":"started","detail":"开始填写发布页"}
+{"at":"2026-08-15T22:48:21.094Z","task":"toutiao","operation":"prepare","event":"state-changed","detail":"草稿已写入可见浏览器，待在平台页面核对并发布","data":{"pageUrl":"https://mp.toutiao.com/profile_v4/graphic/publish","steps":[{"label":"正文","state":"done","detail":"已转换并导入图文 DOCX，确认正文和 7 张图片写入完成"},{"label":"标题","state":"done","detail":"已写入"},{"label":"AI 声明","state":"done","detail":"已选中「引用AI」"},{"label":"发布页校验","state":"done","detail":"标题、正文和 7 张图片仍完整"}]}}
+{"at":"2026-08-15T22:48:21.097Z","task":"toutiao","operation":"publish","event":"started","detail":"开始点击最终发布按钮"}
+{"at":"2026-08-15T22:59:59.797Z","task":"toutiao","operation":"publish","event":"failed","detail":"头条已进入预览，但未找到确认发布按钮；发布页内容仍完整，任务保留为待发布；失败现场：/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/toutiao-publish-latest.png；/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/toutiao-publish-latest.json"}
+{"at":"2026-08-15T22:59:59.797Z","task":"toutiao","operation":"execute","event":"failed","detail":"头条已进入预览，但未找到确认发布按钮；发布页内容仍完整，任务保留为待发布；失败现场：/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/toutiao-publish-latest.png；/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/toutiao-publish-latest.json"}
+{"at":"2026-08-15T22:59:59.797Z","task":"channels","operation":"execute","event":"started","detail":"开始填写并最终发布"}
+{"at":"2026-08-15T22:59:59.799Z","task":"channels","operation":"remote-verify","event":"started","detail":"发布前按标题核验平台管理页，防止重复发布"}
+{"at":"2026-08-15T23:01:21.899Z","task":"channels","operation":"remote-verify","event":"succeeded","detail":"平台管理页未匹配标题，可继续发布","data":{"pageUrl":"https://channels.weixin.qq.com/platform/post/finderNewLifePostList"}}
+{"at":"2026-08-15T23:01:21.900Z","task":"channels","operation":"prepare","event":"started","detail":"开始填写发布页"}
+{"at":"2026-08-15T23:02:34.379Z","task":"channels","operation":"prepare","event":"state-changed","detail":"草稿已写入可见浏览器，待在平台页面核对并发布","data":{"pageUrl":"https://channels.weixin.qq.com/platform/post/finderNewLifeCreate","steps":[{"label":"登录态","state":"skipped","detail":"已使用共享 Chrome 中刚完成的人工登录，未覆盖为历史 Cookie"},{"label":"图片","state":"done","detail":"已确认 7 张图片上传完成"},{"label":"正文","state":"done","detail":"已通过真实键盘替换"},{"label":"标题","state":"done","detail":"已在正文和图片稳定后通过真实键盘写入并回读确认"},{"label":"AI 声明","state":"done","detail":"已选择「含AI生成内容」"},{"label":"发布页校验","state":"done","detail":"标题、正文和 7 张图片仍完整"}]}}
+{"at":"2026-08-15T23:02:34.380Z","task":"channels","operation":"publish","event":"started","detail":"开始点击最终发布按钮"}
+{"at":"2026-08-15T23:03:14.761Z","task":"channels","operation":"publish","event":"state-changed","detail":"已通过真实页面确认发布（点击「发表」）；已关闭 1 个发布标签页","data":{"button":"发表","closedTabs":1}}
+{"at":"2026-08-15T23:03:14.761Z","task":"channels","operation":"execute","event":"succeeded","detail":"已通过真实页面确认发布（点击「发表」）；已关闭 1 个发布标签页"}
+{"at":"2026-08-15T23:03:14.763Z","task":"toutiao","operation":"publish","event":"started","detail":"开始点击最终发布按钮"}
+{"at":"2026-08-15T23:03:17.723Z","task":"toutiao","operation":"publish","event":"state-changed","detail":"已通过真实页面确认发布（点击「预览并发布」和「确认发布」）；已关闭 1 个发布标签页","data":{"button":"预览并发布","confirmation":"确认发布","closedTabs":1}}
+{"at":"2026-08-15T23:03:17.723Z","task":"xiaohongshu","operation":"execute","event":"started","detail":"开始填写并最终发布"}
+{"at":"2026-08-15T23:03:17.724Z","task":"xiaohongshu","operation":"remote-verify","event":"started","detail":"发布前按标题核验平台管理页，防止重复发布"}
+{"at":"2026-08-15T23:03:50.603Z","task":"xiaohongshu","operation":"remote-verify","event":"succeeded","detail":"平台管理页未匹配标题，可继续发布","data":{"pageUrl":"https://creator.xiaohongshu.com/new/note-manager?source=official"}}
+{"at":"2026-08-15T23:03:50.603Z","task":"xiaohongshu","operation":"resume","event":"started","detail":"按标题检查已有小红书草稿「蓝绿梦光盛夏人像」"}
+{"at":"2026-08-15T23:04:01.479Z","task":"xiaohongshu","operation":"resume","event":"skipped","detail":"未找到同标题草稿，将创建新的图文发布页"}
+{"at":"2026-08-15T23:04:01.480Z","task":"xiaohongshu","operation":"prepare","event":"started","detail":"开始填写发布页"}
+{"at":"2026-08-15T23:04:01.774Z","task":"xiaohongshu","operation":"prepare","event":"failed","detail":"小红书图文上传入口存在但无法点击；失败现场：/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/xiaohongshu-prepare-latest.png；/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/xiaohongshu-prepare-latest.json"}
+{"at":"2026-08-15T23:05:04.024Z","task":"xiaohongshu","operation":"execute","event":"started","detail":"开始填写并最终发布"}
+{"at":"2026-08-15T23:05:04.025Z","task":"xiaohongshu","operation":"remote-verify","event":"started","detail":"发布前按标题核验平台管理页，防止重复发布"}
+{"at":"2026-08-15T23:05:37.094Z","task":"xiaohongshu","operation":"remote-verify","event":"succeeded","detail":"平台管理页未匹配标题，可继续发布","data":{"pageUrl":"https://creator.xiaohongshu.com/new/note-manager?source=official"}}
+{"at":"2026-08-15T23:05:37.094Z","task":"xiaohongshu","operation":"resume","event":"started","detail":"按标题检查已有小红书草稿「蓝绿梦光盛夏人像」"}
+{"at":"2026-08-15T23:05:47.938Z","task":"xiaohongshu","operation":"resume","event":"skipped","detail":"未找到同标题草稿，将创建新的图文发布页"}
+{"at":"2026-08-15T23:05:47.939Z","task":"xiaohongshu","operation":"prepare","event":"started","detail":"开始填写发布页"}
+{"at":"2026-08-15T23:05:48.248Z","task":"xiaohongshu","operation":"prepare","event":"failed","detail":"小红书图文上传入口存在但无法点击；失败现场：/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/xiaohongshu-prepare-latest.png；/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/xiaohongshu-prepare-latest.json"}
+{"at":"2026-08-16T00:19:07.410Z","task":"xiaohongshu","operation":"execute","event":"started","detail":"开始填写并最终发布"}
+{"at":"2026-08-16T00:19:07.412Z","task":"xiaohongshu","operation":"remote-verify","event":"started","detail":"发布前按标题核验平台管理页，防止重复发布"}
+{"at":"2026-08-16T00:19:39.148Z","task":"xiaohongshu","operation":"remote-verify","event":"succeeded","detail":"平台管理页未匹配标题，可继续发布","data":{"pageUrl":"https://creator.xiaohongshu.com/new/note-manager?source=official"}}
+{"at":"2026-08-16T00:19:39.148Z","task":"xiaohongshu","operation":"resume","event":"started","detail":"按标题检查已有小红书草稿「蓝绿梦光盛夏人像」"}
+{"at":"2026-08-16T00:19:49.965Z","task":"xiaohongshu","operation":"resume","event":"skipped","detail":"未找到同标题草稿，将创建新的图文发布页"}
+{"at":"2026-08-16T00:19:49.966Z","task":"xiaohongshu","operation":"prepare","event":"started","detail":"开始填写发布页"}
+{"at":"2026-08-16T00:20:19.515Z","task":"xiaohongshu","operation":"prepare","event":"state-changed","detail":"草稿已写入可见浏览器，待在平台页面核对并发布","data":{"pageUrl":"https://creator.xiaohongshu.com/publish/publish?source=official&from=tab_switch&target=image","steps":[{"label":"图片","state":"done","detail":"已确认 7 张图片上传完成"},{"label":"标题","state":"done","detail":"已通过逐字真实键盘输入"},{"label":"正文","state":"done","detail":"已通过逐字真实键盘输入"},{"label":"话题","state":"done","detail":"已通过物理点击添加 3 个话题：#女友感自拍 #生图提示词 #蓝绿梦光"},{"label":"原创声明","state":"done","detail":"已通过物理点击打开并回读确认"},{"label":"AI 声明","state":"done","detail":"已选择并回读确认「笔记含AI合成内容」"},{"label":"发布页校验","state":"done","detail":"标题、正文和 7 张图片仍完整"}]}}
+{"at":"2026-08-16T00:20:19.517Z","task":"xiaohongshu","operation":"publish","event":"started","detail":"开始点击最终发布按钮"}
+{"at":"2026-08-16T00:20:21.297Z","task":"xiaohongshu","operation":"publish","event":"state-changed","detail":"已通过真实页面确认发布（点击「发布」）；已关闭 1 个发布标签页","data":{"button":"发布","closedTabs":1}}
+{"at":"2026-08-16T00:20:21.298Z","task":"xiaohongshu","operation":"execute","event":"succeeded","detail":"已通过真实页面确认发布（点击「发布」）；已关闭 1 个发布标签页"}
