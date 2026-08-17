@@ -1,5 +1,5 @@
 {
-  "stage": 7,
+  "stage": 8,
   "project_root": "/Users/leo/Documents/awesome-image-prompt",
   "series": "典藏海报系列",
   "series_title": "流光日界",
@@ -59,6 +59,7 @@
   "image_text_ready": true,
   "outline_updated": true,
   "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEBtf0FT5b4G7dZGmzT0nL5lSkXT_e6ie4obST9QIaxj-",
+  "wechat_newspic_media_id": "1SqthwjeIpCe8cF9YjMmEMpUVkPuIpfXvAORf_VWpBO5W-6nYdZR5qvigjSCxp6e",
   "superseded_wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEK_2Dr5b3_ZmJ3HKShi4bacxXasI2Do4csNYoHYQ-Ois",
   "superseded_wechat_newspic_media_id": "1SqthwjeIpCe8cF9YjMmEHq_mjojLqiwmOHPA-at8ABMnmhK3OGHLjHT4xFsK299"
 }
