@@ -1,0 +1,10 @@
+{
+  "image-01.png": {"type": "body", "label": "Vol.01 白昼站台"},
+  "image-02.png": {"type": "body", "label": "Vol.02 红色失重"},
+  "image-03.png": {"type": "body", "label": "Vol.03 雨后信号"},
+  "image-04.png": {"type": "body", "label": "Vol.04 逃离静音"},
+  "image-05.png": {"type": "body", "label": "Vol.05 屋顶风暴"},
+  "image-06.png": {"type": "body", "label": "Vol.06 尚未回家"},
+  "image-07.png": {"type": "cover", "label": "流光日界概念封面"},
+  "image-08.png": {"type": "banner", "label": "16:9 1x2 横向双幅层叠引导图-白昼起承"}
+}

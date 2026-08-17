@@ -1,0 +1,64 @@
+{
+  "stage": 7,
+  "project_root": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "典藏海报系列",
+  "series_title": "流光日界",
+  "series_icon": "📜",
+  "series_watermark": "CITY PULSE ARCHIVE",
+  "vol": "POSTER-008",
+  "title": "城市脉冲·日界六幕",
+  "template": "Q",
+  "template_name": "真实案例还原（多案例单提示词模式：城市脉冲白昼六幕）",
+  "style": 3,
+  "style_name": "实验报告流",
+  "article_dir": "典藏海报系列/POSTER-008-城市脉冲·霓虹曜界六幕",
+  "article_md": "典藏海报系列/POSTER-008-城市脉冲·霓虹曜界六幕/POSTER-008-城市脉冲·霓虹曜界六幕.md",
+  "recent_templates": ["R", "I", "E"],
+  "recent_styles": [1, 2, 4],
+  "recent_title_styles": ["疑问引导型", "结果驱动型", "复制即用型"],
+  "multi_case_single_prompt_mode": true,
+  "body_image_count": 6,
+  "total_image_count": 8,
+  "top_banner_layout": "16:9-1x2横向双幅层叠-白昼起承",
+  "prompts_ready": true,
+  "article_written": true,
+  "title_used": "六个城市白昼场景，拍出一组有连续叙事的杂志海报",
+  "title_style": "社交货币型",
+  "recent_local_articles": [
+    {
+      "title": "六色典藏：六种配色怎样让人物海报同系列却不撞款？",
+      "path": "典藏海报系列/POSTER-007-六色人物非模板海报/POSTER-007-六色人物非模板海报.md",
+      "updatedAt": "2026-08-17T01:53:58.039Z"
+    },
+    {
+      "title": "不用滤镜也有电影感：6幕琥珀光影女友自拍写法",
+      "path": "女友感自拍系列/SELFIE-066-暮金浮影·六幕电影肖像/SELFIE-066-暮金浮影·六幕电影肖像.md",
+      "updatedAt": "2026-08-16T14:57:06.520Z"
+    },
+    {
+      "title": "奶油白人像怎么不显寡淡？6个草莓场景做出清透层次",
+      "path": "女友感自拍系列/SELFIE-065-莓光绮境·奶油草莓居家六景/SELFIE-065-莓光绮境·奶油草莓居家六景.md",
+      "updatedAt": "2026-08-16T08:04:56.955Z"
+    }
+  ],
+  "local_articles_fetched_at": "2026-08-17T06:15:11.014Z",
+  "local_articles_empty": false,
+  "images_ready": true,
+  "quality_checked": true,
+  "cover_text_verified": true,
+  "image_jobs": [
+    "poster008d_body01",
+    "poster008d_body02",
+    "poster008d_body03",
+    "poster008d_body04",
+    "poster008d_body05",
+    "poster008d_body06",
+    "poster008d_cover07",
+    "poster008d_banner08"
+  ],
+  "image_text_ready": true,
+  "outline_updated": true,
+  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEBtf0FT5b4G7dZGmzT0nL5lSkXT_e6ie4obST9QIaxj-",
+  "superseded_wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEK_2Dr5b3_ZmJ3HKShi4bacxXasI2Do4csNYoHYQ-Ois",
+  "superseded_wechat_newspic_media_id": "1SqthwjeIpCe8cF9YjMmEHq_mjojLqiwmOHPA-at8ABMnmhK3OGHLjHT4xFsK299"
+}
