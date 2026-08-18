@@ -1,0 +1,92 @@
+{
+  "stage": 8,
+  "project_root": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "女友感自拍系列",
+  "vol": "SELFIE-070",
+  "title": "青昼浮光·城市漫游六景",
+  "template": "Q",
+  "template_name": "真实案例还原（泛化为盛夏城市漫游六景的场景设计拆解，正文仅展示一份完整原版提示词）",
+  "style": 3,
+  "style_name": "实验报告流",
+  "random_pick": {
+    "template": "Q",
+    "template_name": "真实案例还原",
+    "style": 3,
+    "style_name": "实验报告流"
+  },
+  "article_dir": "女友感自拍系列/SELFIE-070-青昼浮光·城市漫游六景",
+  "article_md": "女友感自拍系列/SELFIE-070-青昼浮光·城市漫游六景/SELFIE-070-青昼浮光·城市漫游六景.md",
+  "recent_templates": ["B", "K", "A"],
+  "recent_styles": [4, 1, 2],
+  "recent_title_styles": ["复制即用型", "疑问引导型", "知识科普型"],
+  "multi_case_single_prompt": true,
+  "visual_concept": "青昼浮光",
+  "content_safety_adjusted": true,
+  "prompts_ready": true,
+  "body_image_count": 6,
+  "total_image_count": 8,
+  "target_resolution": {
+    "body_2x3": "4096x6144",
+    "body_3x4": "4096x5461",
+    "cover": "4096x1743",
+    "banner": "4096x2304"
+  },
+  "recent_local_articles": [
+    {
+      "title": "青荫蜜果：6个树荫水果场景，一套写法拍出清透女友感",
+      "path": "女友感自拍系列/SELFIE-069-青荫蜜果·盛夏六景/SELFIE-069-青荫蜜果·盛夏六景.md",
+      "updatedAt": "2026-08-18T15:19:54.981Z"
+    },
+    {
+      "title": "把盛夏逆光拍干净：6个自然场景的通透女友感方法",
+      "path": "女友感自拍系列/SELFIE-068-柳雾澄光·盛夏六幕/SELFIE-068-柳雾澄光·盛夏六幕.md",
+      "updatedAt": "2026-08-17T16:54:40.862Z"
+    },
+    {
+      "title": "实测6个盛夏窗边瞬间，女友感人像的通透光线终于对了",
+      "path": "女友感自拍系列/SELFIE-067-璃夏绮光·窗边六时/SELFIE-067-璃夏绮光·窗边六时.md",
+      "updatedAt": "2026-08-17T15:24:46.937Z"
+    }
+  ],
+  "local_articles_fetched_at": "2026-08-18T16:43:50.795Z",
+  "article_written": true,
+  "title_used": "6个盛夏城市场景，AI拍出像真实偶遇的自然光女友感",
+  "title_style": "结果驱动型",
+  "image_map": "女友感自拍系列/SELFIE-070-青昼浮光·城市漫游六景/image-map.json",
+  "images_ready": true,
+  "image_quality_checked": true,
+  "visual_review_passed": true,
+  "cover_visual_review_passed": true,
+  "banner_visual_review_passed": true,
+  "image_order_verified": true,
+  "image_text_ready": true,
+  "outline_updated": true,
+  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEJZB7FHIkIIfV7qMrmWIGXk2EgYDqpB45ri4p2BjvRas",
+  "wechat_article_published_at": "2026-08-18T17:08:00Z",
+  "wechat_newspic_media_id": "1SqthwjeIpCe8cF9YjMmEKF-tX0dnydr8PbdTU2ZcT4k1HdKP_gRiecQjNVlOQAj",
+  "wechat_newspic_published_at": "2026-08-18T17:22:00Z",
+  "wechat_upload_assets": {
+    "source_images": "4K PNG retained in article directory",
+    "newspic_upload": "temporary 1600px JPEG copies used for WeChat media limits"
+  },
+  "completed_images": [
+    "image-01.png",
+    "image-02.png",
+    "image-03.png",
+    "image-04.png",
+    "image-05.png",
+    "image-06.png",
+    "image-07.png",
+    "image-08.png"
+  ],
+  "image_jobs": {
+    "image-01.png": "selfie070_body01",
+    "image-02.png": "selfie070_body02",
+    "image-03.png": "selfie070_body03",
+    "image-04.png": "selfie070_body04",
+    "image-05.png": "selfie070_body05",
+    "image-06.png": "selfie070_body06",
+    "image-07.png": "selfie070_cover07",
+    "image-08.png": "selfie070_banner08"
+  }
+}

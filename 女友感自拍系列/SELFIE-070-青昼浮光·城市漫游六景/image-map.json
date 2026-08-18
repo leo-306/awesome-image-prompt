@@ -1,0 +1,10 @@
+{
+  "image-01.png": {"label": "河岸长椅·风吹白衬衫", "type": "body", "jobId": "selfie070_body01", "dimensions": "4096x6144"},
+  "image-02.png": {"label": "老电车站·午后等车", "type": "body", "jobId": "selfie070_body02", "dimensions": "4096x5461"},
+  "image-03.png": {"label": "玻璃花房外·抱花回身", "type": "body", "jobId": "selfie070_body03", "dimensions": "4096x6144"},
+  "image-04.png": {"label": "旧图书馆外墙·树影停步", "type": "body", "jobId": "selfie070_body04", "dimensions": "4096x5461"},
+  "image-05.png": {"label": "天台晾衣场·夏风侧逆光", "type": "body", "jobId": "selfie070_body05", "dimensions": "4096x6144"},
+  "image-06.png": {"label": "巷口水果店·冰汽水瞬间", "type": "body", "jobId": "selfie070_body06", "dimensions": "4096x5461"},
+  "image-07.png": {"label": "封面图", "type": "cover", "jobId": "selfie070_cover07", "dimensions": "4096x1743"},
+  "image-08.png": {"label": "顶部引导图-16:9错落叠页拼贴", "type": "banner", "jobId": "selfie070_banner08", "dimensions": "4096x2304"}
+}
