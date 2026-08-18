@@ -12,10 +12,10 @@ topics:
 
 #GPTImage2 #千问 #生图提示词 #Prompt #女友感自拍 #树荫水果写真
 
-![顶部引导图](image-08.png)
-![树荫白桃近景](image-01.png)
-![林间玻璃汽水](image-02.png)
-![河岸樱桃小憩](image-03.png)
-![草坪蜜瓜晨光](image-04.png)
-![白花树下杨梅](image-05.png)
-![林荫野餐冰淇淋](image-06.png)
+![顶部引导图](image-08.jpg)
+![树荫白桃近景](image-01.jpg)
+![林间玻璃汽水](image-02.jpg)
+![河岸樱桃小憩](image-03.jpg)
+![草坪蜜瓜晨光](image-04.jpg)
+![白花树下杨梅](image-05.jpg)
+![林荫野餐冰淇淋](image-06.jpg)
