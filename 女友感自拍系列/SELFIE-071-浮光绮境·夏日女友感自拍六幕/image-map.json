@@ -1,0 +1,10 @@
+{
+  "image-01.png": {"type": "body", "label": "湖边日落花桌少女", "section": "原版提示词｜湖边日落花桌", "resolution": "3073x3840"},
+  "image-02.png": {"type": "body", "label": "玻璃花房晨光回眸", "section": "其余五幕｜玻璃花房", "resolution": "2560x3840"},
+  "image-03.png": {"type": "body", "label": "河岸露台晚霞小憩", "section": "其余五幕｜河岸露台", "resolution": "3073x3840"},
+  "image-04.png": {"type": "body", "label": "白色阳台暮色风景", "section": "其余五幕｜白色阳台", "resolution": "2560x3840"},
+  "image-05.png": {"type": "body", "label": "草地野餐金色时刻", "section": "其余五幕｜草地野餐", "resolution": "3073x3840"},
+  "image-06.png": {"type": "body", "label": "窗边黄昏静坐写真", "section": "其余五幕｜窗边静坐", "resolution": "2560x3840"},
+  "image-07.png": {"type": "cover", "label": "浮光绮境封面", "resolution": "3840x1637"},
+  "image-08.png": {"type": "banner", "label": "16:9错落叠层拼贴", "resolution": "3840x2161"}
+}
