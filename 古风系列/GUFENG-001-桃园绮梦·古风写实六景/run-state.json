@@ -1,0 +1,84 @@
+{
+  "stage": 8,
+  "project_root": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "古风系列",
+  "series_icon": "🪷",
+  "series_english_watermark": "GU FENG",
+  "vol": "GUFENG-001",
+  "title": "桃园绮梦·古风写实六景",
+  "template": "H",
+  "template_name": "知识科普（按用户要求泛化为古风写实六景的易失真点设计拆解，正文仅展示一份完整原版提示词）",
+  "style": 1,
+  "style_name": "极简流",
+  "article_dir": "古风系列/GUFENG-001-桃园绮梦·古风写实六景",
+  "article_md": "古风系列/GUFENG-001-桃园绮梦·古风写实六景/GUFENG-001-桃园绮梦·古风写实六景.md",
+  "recent_templates": [],
+  "recent_styles": [],
+  "recent_title_styles": [],
+  "random_pick": {
+    "template": "H",
+    "template_name": "知识科普",
+    "style": 1,
+    "style_name": "极简流"
+  },
+  "multi_case_single_prompt": true,
+  "visual_concept": "桃霞清影",
+  "body_image_count": 6,
+  "total_image_count": 8,
+  "prompts_ready": true,
+  "article_written": true,
+  "title_used": "桃园绮梦六景：一套明亮自然光写法拍出仙气古风人像",
+  "title_style": "结果驱动型",
+  "cover_image": "image-07.png",
+  "banner_image": "image-08.png",
+  "recent_local_articles": [
+    {
+      "title": "云崖听风：高山云海女友感自拍，一套写法拍出清透仙气",
+      "path": "女友感自拍系列/SELFIE-074-云崖听风·高山云海六境/SELFIE-074-云崖听风·高山云海六境.md",
+      "updatedAt": "2026-08-20T14:05:24.009Z"
+    },
+    {
+      "title": "银雾花房：6张逆光人像拍出清透高级女友感的一套写法",
+      "path": "女友感自拍系列/SELFIE-073-琥珀银雾·花房六时/SELFIE-073-琥珀银雾·花房六时.md",
+      "updatedAt": "2026-08-20T11:17:48.403Z"
+    },
+    {
+      "title": "同一台旋转木马，我拍出了 8 种不一样的甜",
+      "path": "女友感自拍系列/SELFIE-007-旋转木马甜系写真/SELFIE-007-旋转木马甜系写真.md",
+      "updatedAt": "2026-08-20T04:54:36.912Z"
+    }
+  ],
+  "local_articles_fetched_at": "2026-08-20T17:01:27.092Z",
+  "image_map": "古风系列/GUFENG-001-桃园绮梦·古风写实六景/image-map.json"
+  ,"prompt_task_instruction": "请立即生成图片。不要解释、不要分析、不要复述提示词，直接调用图像生成工具并输出图片。\n"
+  ,"image_jobs": [
+    "gufeng001b_body01",
+    "gufeng001b_body02",
+    "gufeng001b_body03",
+    "gufeng001b_body04",
+    "gufeng001b_body05",
+    "gufeng001b_body06",
+    "gufeng001b_cover07",
+    "gufeng001b_banner08"
+  ]
+  ,"completed_images": [
+    "image-01.png",
+    "image-02.png",
+    "image-03.png",
+    "image-04.png",
+    "image-05.png",
+    "image-06.png",
+    "image-07.png",
+    "image-08.png"
+  ]
+  ,"image_quality_checked": true
+  ,"visual_review_passed": true
+  ,"images_ready": true
+  ,"image_generation_note": "首个任务因未明确要求直接生成图片而进入 needs_manual；修正调度指令后以 gufeng001b 链路生成全部图片，并完成逐张视觉检查与 2K 长边处理。"
+  ,"image_text_ready": true
+  ,"outline_updated": true
+  ,"wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEPgqBzoYyueV09qjklWS41W82zLCluj3vPgfUzyh9XIb"
+  ,"wechat_article_published_at": "2026-08-21T02:10:00+08:00"
+  ,"wechat_newspic_media_id": "1SqthwjeIpCe8cF9YjMmEGFy2E_VuLyX4PRwdmc-pDZizTqYy-wgAO3gTSYKLIbQ"
+  ,"wechat_newspic_published_at": "2026-08-21T02:12:00+08:00"
+}
