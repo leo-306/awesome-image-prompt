@@ -13,3 +13,4 @@ data
 .DS_Store
 social-*.md
 .content-client/
+social-publisher.log.*
