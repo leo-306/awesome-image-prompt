@@ -1,0 +1,88 @@
+{
+  "stage": 8,
+  "outline_updated": true,
+  "wechat_article_media_id": "1SqthwjeIpCe8cF9YjMmEO2Qba8VBX8VNZWWWlbopsxZLh3do98an3Pst2sr4eiq",
+  "wechat_article_published_at": "2026-08-21T21:55:00+08:00",
+  "wechat_newspic_media_id": "1SqthwjeIpCe8cF9YjMmEHP1gRbaDNfpZyTirV2dhzwVx-PfXwLbv7gdBxhXnikC",
+  "wechat_newspic_published_at": "2026-08-21T21:56:00+08:00",
+  "project_root": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "古风系列",
+  "series_icon": "🪷",
+  "series_english_watermark": "GU FENG",
+  "vol": "GUFENG-003",
+  "title": "绮光入梦·盛唐美人六景",
+  "template": "R",
+  "template_name": "AI挑战（泛化为六个盛唐逆光场景的变量实验，正文仅展示一份完整原版提示词）",
+  "style": 3,
+  "style_name": "实验报告流",
+  "article_dir": "古风系列/GUFENG-003-绮光入梦·盛唐美人六景",
+  "article_md": "古风系列/GUFENG-003-绮光入梦·盛唐美人六景/GUFENG-003-绮光入梦·盛唐美人六景.md",
+  "recent_templates": ["O", "H"],
+  "recent_styles": [2, 1],
+  "recent_title_styles": ["知识科普型", "结果驱动型"],
+  "random_pick": {
+    "template": "R",
+    "template_name": "AI挑战",
+    "style": 3,
+    "style_name": "实验报告流"
+  },
+  "multi_case_single_prompt": true,
+  "visual_concept": "绮光华章",
+  "body_image_count": 6,
+  "total_image_count": 8,
+  "series_row_added": true,
+  "prompts_ready": true,
+  "article_written": true,
+  "title_used": "绮光入梦：盛唐逆光轻纱六景，仙气人像这样写更稳妥",
+  "title_style": "复制即用型",
+  "cover_image": "image-07.png",
+  "banner_image": "image-08.png",
+  "recent_local_articles": [
+    {
+      "title": "青瓷窗影六境：六个窗边瞬间写出清透新中式女友感自拍",
+      "path": "女友感自拍系列/SELFIE-077-青瓷窗影·新中式清透六境/SELFIE-077-青瓷窗影·新中式清透六境.md",
+      "updatedAt": "2026-08-21T11:10:11.189Z"
+    },
+    {
+      "title": "蓝白直闪六景实验：用旧相册质感拍出更自然的女友感自拍",
+      "path": "女友感自拍系列/SELFIE-076-冰蓝直闪·私人相册六幕/SELFIE-076-冰蓝直闪·私人相册六幕.md",
+      "updatedAt": "2026-08-21T09:19:53.065Z"
+    },
+    {
+      "title": "盛夏树影自拍怎么拍得清透？六个角度写出自然女友感",
+      "path": "女友感自拍系列/SELFIE-075-晴森风语·蓝天树影六境/SELFIE-075-晴森风语·蓝天树影六境.md",
+      "updatedAt": "2026-08-21T07:49:15.923Z"
+    }
+  ],
+  "local_articles_fetched_at": "2026-08-21T13:35:03.953Z",
+  "image_map": "古风系列/GUFENG-003-绮光入梦·盛唐美人六景/image-map.json",
+  "image_jobs": [
+    "gufeng003_body01",
+    "gufeng003_body02",
+    "gufeng003_body03",
+    "gufeng003_body04",
+    "gufeng003_body05",
+    "gufeng003_body06",
+    "gufeng003_cover07b",
+    "gufeng003_banner08"
+  ],
+  "completed_images": [
+    "image-01.png",
+    "image-02.png",
+    "image-03.png",
+    "image-04.png",
+    "image-05.png",
+    "image-06.png",
+    "image-07.png",
+    "image-08.png"
+  ],
+  "image_quality_checked": true,
+  "visual_review_passed": true,
+  "image_resolution_normalized": "longest_edge_2048px",
+  "cover_retry": {
+    "job_id": "gufeng003_cover07b",
+    "reason": "首次封面英文水印字母误识别，重生后人工放大确认 GU FENG 清晰可读"
+  },
+  "images_ready": true,
+  "image_text_ready": true
+}
