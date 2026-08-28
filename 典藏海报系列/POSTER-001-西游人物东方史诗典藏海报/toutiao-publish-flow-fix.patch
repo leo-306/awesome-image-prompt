@@ -1,0 +1,46 @@
+diff --git a/app/main/browser-publisher.ts b/app/main/browser-publisher.ts
+--- a/app/main/browser-publisher.ts
++++ b/app/main/browser-publisher.ts
+@@ -3991,18 +3991,9 @@ export class BrowserPublisher {
+                 && candidate.type === "page"
+                 && toutiaoPreviewTargetUrl(candidate.url)
+               );
+-              let prepared = false;
+               if (!previewTargetExists) {
+-                try {
+-                  await assertPreparedPage(platform, page, draft);
+-                  prepared = true;
+-                } catch {
+-                  // 页面可能正在切换到预览；只在完整编辑页仍可核对时允许补点。
+-                }
+-              }
+-              if (prepared) {
+                 const retried = await clickToutiaoPublishButton(page, observation.buttonText);
+                 if (retried?.disabled) throw new Error("头条预览按钮当前不可用，请检查发布页必填项");
+                 if (retried) {
+                   toutiaoRetryUsed = true;
+                   continue;
+@@ -4015,8 +4006,9 @@ export class BrowserPublisher {
+                 }
+               }
+             }
+-            const currentButtonText = await page.readFirstValue([toutiaoPublishButtonSelector]);
+-            confirmed = currentButtonText && isToutiaoConfirmationText(currentButtonText)
++            const currentButtonText = observation?.buttonText
++              ?? await page.readFirstValue([toutiaoPublishButtonSelector]);
++            confirmed = !observation?.buttonLoading && currentButtonText && isToutiaoConfirmationText(currentButtonText)
+               ? await clickToutiaoPublishButton(page, currentButtonText)
+               : editorStillOpen
+                 ? undefined
+diff --git a/app/main/browser-publisher.test.ts b/app/main/browser-publisher.test.ts
+--- a/app/main/browser-publisher.test.ts
++++ b/app/main/browser-publisher.test.ts
+@@ -524,5 +524,6 @@ test("头条预览和确认发布按钮只接受物理点击", async () => {
+   };
+ 
+   assert.deepEqual(await clickToutiaoPublishButton(page, "预览并发布"), { text: "预览并发布", disabled: false });
+-  assert.deepEqual(selectors, [toutiaoPublishButtonSelector]);
++  assert.deepEqual(await clickToutiaoPublishButton(page, "确认发布"), { text: "确认发布", disabled: false });
++  assert.deepEqual(selectors, [toutiaoPublishButtonSelector, toutiaoPublishButtonSelector]);
+ 
+   const blockedPage = { clickSelectorPhysically: async () => false };

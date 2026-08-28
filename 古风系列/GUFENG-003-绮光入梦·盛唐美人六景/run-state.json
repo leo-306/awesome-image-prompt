@@ -17,9 +17,18 @@
   "style_name": "实验报告流",
   "article_dir": "古风系列/GUFENG-003-绮光入梦·盛唐美人六景",
   "article_md": "古风系列/GUFENG-003-绮光入梦·盛唐美人六景/GUFENG-003-绮光入梦·盛唐美人六景.md",
-  "recent_templates": ["O", "H"],
-  "recent_styles": [2, 1],
-  "recent_title_styles": ["知识科普型", "结果驱动型"],
+  "recent_templates": [
+    "O",
+    "H"
+  ],
+  "recent_styles": [
+    2,
+    1
+  ],
+  "recent_title_styles": [
+    "知识科普型",
+    "结果驱动型"
+  ],
   "random_pick": {
     "template": "R",
     "template_name": "AI挑战",
@@ -84,5 +93,46 @@
     "reason": "首次封面英文水印字母误识别，重生后人工放大确认 GU FENG 清晰可读"
   },
   "images_ready": true,
-  "image_text_ready": true
+  "image_text_ready": true,
+  "client_tasks": {
+    "douyin": {
+      "state": "completed",
+      "detail": "已通过真实页面确认发布（点击「发布」）；已关闭 1 个发布标签页",
+      "updatedAt": "2026-08-28T00:06:05.989Z"
+    },
+    "kuaishou": {
+      "state": "completed",
+      "detail": "已通过真实页面确认发布（点击「发布」和「确定」）；已关闭 1 个发布标签页",
+      "updatedAt": "2026-08-28T00:06:21.454Z"
+    },
+    "channels": {
+      "state": "completed",
+      "detail": "已通过真实页面确认发布（点击「发表」）；已关闭 1 个发布标签页",
+      "updatedAt": "2026-08-28T00:23:42.857Z"
+    },
+    "toutiao": {
+      "state": "completed",
+      "detail": "已通过真实页面确认发布（点击「预览并发布」和「确认发布」）；已关闭 1 个发布标签页",
+      "updatedAt": "2026-08-28T00:08:38.300Z"
+    },
+    "xiaohongshu": {
+      "state": "ready",
+      "detail": "xiaohongshu 发布页标题已丢失，需要重新填写；失败现场：/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/xiaohongshu-prepare-latest.png；/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/xiaohongshu-prepare-latest.json",
+      "updatedAt": "2026-08-28T00:11:02.071Z"
+    }
+  },
+  "douyin_submitted": true,
+  "douyin_last_error": null,
+  "douyin_last_error_at": null,
+  "kuaishou_submitted": true,
+  "kuaishou_last_error": null,
+  "kuaishou_last_error_at": null,
+  "channels_last_error": null,
+  "channels_last_error_at": null,
+  "toutiao_submitted": true,
+  "toutiao_last_error": null,
+  "toutiao_last_error_at": null,
+  "xiaohongshu_last_error": "xiaohongshu 发布页标题已丢失，需要重新填写；失败现场：/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/xiaohongshu-prepare-latest.png；/var/folders/h_/bkxk9pyn5xv1rwszk_h7vdjh0000gn/T/social-browser-publisher/failures/xiaohongshu-prepare-latest.json",
+  "xiaohongshu_last_error_at": "2026-08-28T00:11:02.070Z",
+  "channels_submitted": true
 }

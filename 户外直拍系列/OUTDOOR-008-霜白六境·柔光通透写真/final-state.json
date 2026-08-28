@@ -1,0 +1,48 @@
+{
+  "projectRoot": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "户外直拍系列",
+  "vol": "OUTDOOR-008",
+  "folderTitle": "霜白六境·柔光通透写真",
+  "articleTitle": "霜白六境：冷白高调与柔焦通透，把空气感写进写真",
+  "articleRelativePath": "户外直拍系列/OUTDOOR-008-霜白六境·柔光通透写真/OUTDOOR-008-霜白六境·柔光通透写真.md",
+  "state": {
+    "stage": 7,
+    "stage_name": "published",
+    "status": "success",
+    "template": "E",
+    "template_name": "Prompt优化对比",
+    "style": 4,
+    "style_name": "卡片问答流",
+    "title_style": "六境·概念名词+方法承诺",
+    "article_written": true,
+    "images_ready": true,
+    "image_text_ready": true,
+    "image_text_published": false,
+    "article_media_id": "1SqthwjeIpCe8cF9YjMmEIAARhV3dQ08gRM2wyanpIkcKn9-gTyOiY6MRjP5zz9X",
+    "cover_media_id": "1SqthwjeIpCe8cF9YjMmEG27KgormmCS8f6SF6g0neDQUvk8LRzEX38SzqVtZBbP",
+    "cover_file": "image-07.png",
+    "banner_file": "image-08.png",
+    "body_word_count": 1211,
+    "image_jobs": [
+      { "id": "OUTDOOR-008_body01", "file": "image-01.png", "status": "done" },
+      { "id": "OUTDOOR-008_body02_retry1", "file": "image-02.png", "status": "done" },
+      { "id": "OUTDOOR-008_body03", "file": "image-03.png", "status": "done" },
+      { "id": "OUTDOOR-008_body04", "file": "image-04.png", "status": "done" },
+      { "id": "OUTDOOR-008_body05", "file": "image-05.png", "status": "done" },
+      { "id": "OUTDOOR-008_body06", "file": "image-06.png", "status": "done" },
+      { "id": "OUTDOOR-008_cover07", "file": "image-07.png", "status": "done" },
+      { "id": "OUTDOOR-008_banner08", "file": "image-08.png", "status": "done" }
+    ],
+    "completed_at": "2026-08-28T14:38:00.000Z"
+  },
+  "imageMap": {
+    "image-01.png": "OUTDOOR-008_body01",
+    "image-02.png": "OUTDOOR-008_body02",
+    "image-03.png": "OUTDOOR-008_body03",
+    "image-04.png": "OUTDOOR-008_body04",
+    "image-05.png": "OUTDOOR-008_body05",
+    "image-06.png": "OUTDOOR-008_body06",
+    "image-07.png": "OUTDOOR-008_cover07",
+    "image-08.png": "OUTDOOR-008_banner08"
+  }
+}
