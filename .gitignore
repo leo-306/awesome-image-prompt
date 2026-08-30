@@ -15,3 +15,6 @@ social-*.md
 .content-client/
 social-publisher.log.*
 docs/
+duck-session.json
+gen.log
+
