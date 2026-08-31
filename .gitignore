@@ -16,5 +16,5 @@ social-*.md
 social-publisher.log.*
 docs/
 duck-session.json
-gen.log
-
+gen*.log
+.playwright-mcp
