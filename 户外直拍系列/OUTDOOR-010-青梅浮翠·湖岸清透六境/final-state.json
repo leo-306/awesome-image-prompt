@@ -1,0 +1,35 @@
+{
+  "projectRoot": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "户外直拍系列",
+  "vol": "OUTDOOR-010",
+  "folderTitle": "青梅浮翠·湖岸清透六境",
+  "articleTitle": "青梅浮翠：湖岸树荫下的一整片浅绿，是夏天最好的柔光箱",
+  "articleRelativePath": "户外直拍系列/OUTDOOR-010-青梅浮翠·湖岸清透六境/OUTDOOR-010-青梅浮翠·湖岸清透六境.md",
+  "state": {
+    "status": "success",
+    "stage": 7,
+    "template": "A",
+    "template_name": "Prompt拆解",
+    "style": 4,
+    "style_name": "卡片问答流",
+    "title_style": "青梅浮翠：湖岸树荫下的一整片浅绿，是夏天最好的柔光箱",
+    "article_written": true,
+    "images_ready": true,
+    "image_text_ready": false,
+    "article_media_id": "1SqthwjeIpCe8cF9YjMmEB2105gDiGDrLW2yX5vnYAMnsLW9KU9ueD1pkb1PopcW",
+    "cover_media_id": "1SqthwjeIpCe8cF9YjMmEOIUhSC_UzTpz5rc_KKNrpwHUoii_b4-TgdZqiDZ0ccU",
+    "newspic_media_id": null,
+    "job_id_prefix": "OUTDOOR-010",
+    "completed_at": "2026-08-31T08:16:38.881Z"
+  },
+  "imageMap": {
+    "image-01.png": "湖岸树荫回眸特写",
+    "image-02.png": "石阶临水抱膝侧坐",
+    "image-03.png": "举起青梅的逆光近景",
+    "image-04.png": "柳荫浅滩低头沉思",
+    "image-05.png": "湖边石栏扶手半身肖像",
+    "image-06.png": "水边回身轻坐的远近结合人像",
+    "image-07.png": "封面图 2.35:1",
+    "image-08.png": "引导图 16:9 错落叠层"
+  }
+}
