@@ -1,0 +1,35 @@
+{
+  "projectRoot": "/Users/leo/Documents/awesome-image-prompt",
+  "series": "户外直拍系列",
+  "vol": "OUTDOOR-011",
+  "folderTitle": "冰蓝薄雾·六境高键肖像",
+  "articleTitle": "冰蓝薄雾：高键柔光的六种写法，把清冷通透写进皮肤",
+  "articleRelativePath": "户外直拍系列/OUTDOOR-011-冰蓝薄雾·六境高键肖像/OUTDOOR-011-冰蓝薄雾·六境高键肖像.md",
+  "state": {
+    "status": "success",
+    "stage": 7,
+    "template": "C",
+    "template_name": "关键词百科",
+    "style": 5,
+    "style_name": "对比卡片流",
+    "title_style": "冰蓝薄雾：高键柔光的六种写法，把清冷通透写进皮肤",
+    "article_written": true,
+    "images_ready": true,
+    "image_text_ready": false,
+    "article_media_id": "1SqthwjeIpCe8cF9YjMmEDbWAgLszp7q777ejpyz_Xdv2QX2qNPMUgDCoHBLh5We",
+    "cover_media_id": "1SqthwjeIpCe8cF9YjMmEKaW3aMKRQNDrVq9P6TcclA0sBhu-Nb2JspBpeapImta",
+    "newspic_media_id": null,
+    "job_id_prefix": "OUTDOOR-011",
+    "completed_at": "2026-09-01T14:05:00.000Z"
+  },
+  "imageMap": {
+    "image-01.png": "冰蓝柔雾正面半身肖像",
+    "image-02.png": "淡紫灰背景三分之四侧脸肖像",
+    "image-03.png": "白纱空气感柔光近景肖像",
+    "image-04.png": "冷白背景安静侧身半身像",
+    "image-05.png": "朦胧窗光淡粉冷调人像",
+    "image-06.png": "冷青灰背景高级感特写",
+    "image-07.png": "封面图 2.35:1",
+    "image-08.png": "引导图 16:9 错落叠层"
+  }
+}
